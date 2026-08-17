@@ -1,12 +1,12 @@
-# North Shore Plumbing Now
+# Roofing West Auckland
 
 MAKE A HIGHLY CONVERTING LANDING PLUMBING WEBSITE ONE PAGER
 
-24/7 emergency plumbing on the North Shore
+24/7 emergency roofing in West Auckland
 
 64 9 8879059
 
-NORTH SHORE PLUMBING & GAS
+ROOFING WEST AUCKLAND
 
 Call
 
@@ -14,7 +14,7 @@ Request service
 
 Qualified, insured, local
 
-Need a plumber on the North Shore?
+Need a roofer in West Auckland?
 
 Call now for urgent help, or send a quick request and we will get back to you.
 
@@ -54,7 +54,7 @@ What our customers say
 
 Google
 
-North Shore Plumbing & Gas
+Roofing West Auckland
 
 5.0
 
@@ -84,7 +84,7 @@ Mrs
 
 1 week ago
 
-Highly recommend the great communication, they were quick to find me a booking and arrived on time. It’s rare to see workers clean up their mess properly these days but North Shore Plumbing impressed me! Give them a shot
+Highly recommend the great communication, they were quick to find me a booking and arrived on time. It’s rare to see workers clean up their mess properly these days but Roofing West Auckland impressed me! Give them a shot
 
 Price assessment
 
@@ -202,7 +202,7 @@ reshee
 
 1 week ago
 
-I had a great experience with north shore plumbing and gas. From the very first call these guys were quick and efficient and communicated really well. Quality of the work was excellent too. Top notch service!
+I had a great experience with Roofing West Auckland. From the very first call these guys were quick and efficient and communicated really well. Quality of the work was excellent too. Top notch service!
 
 Response from the owner
 
@@ -242,67 +242,61 @@ Bathrooms & fixtures
 
 Service areas
 
-Albany
+Henderson
 
-Bayview
+New Lynn
 
-Beach Haven
+Glen Eden
 
-Belmont
+Titirangi
 
-Birkdale
+Te Atatu Peninsula
 
-Birkenhead
+Te Atatu South
 
-Browns Bay
+Massey
 
-Campbells Bay
+Ranui
 
-Castor Bay
+Swanson
 
-Devonport
+Oratia
 
-Forrest Hill
+Hobsonville
 
-Glenfield
+Whenuapai
 
-Greenhithe
+Hobsonville Point
 
-Hauraki
+Glendene
 
-Hillcrest
+Sunnyvale
 
-Long Bay
+Kelston
 
-Mairangi Bay
+Avondale
 
-Milford
+Point Chevalier
 
-Northcote
+Blockhouse Bay
 
-Northcross
+Green Bay
 
-Pinehill
+New Windsor
 
-Rothesay Bay
+Mount Albert
 
-Rosedale
+Kumeu
 
-Sunnynook
+Huapai
 
-Takapuna
+Waimauku
 
-Torbay
+Riverhead
 
-Totara Vale
+Waitakere
 
-Unsworth Heights
-
-Wairau Valley
-
-Windsor Park
-
-NORTH SHORE PLUMBING & GAS
+ROOFING WEST AUCKLAND
 
 24/7 emergency plumbing.
 

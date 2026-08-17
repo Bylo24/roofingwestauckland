@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Roofing Auckland" },
-      { name: "description", content: "24/7 emergency roofing, leak repairs and re-roofing across Auckland." },
-      { name: "author", content: "Roofing Auckland" },
-      { property: "og:title", content: "Roofing Auckland" },
-      { property: "og:description", content: "24/7 emergency roofing, leak repairs and re-roofing across Auckland." },
+      { title: "Roofing West Auckland" },
+      { name: "description", content: "24/7 emergency roofing, leak repairs and re-roofing across West Auckland and greater Auckland." },
+      { name: "author", content: "Roofing West Auckland" },
+      { property: "og:title", content: "Roofing West Auckland" },
+      { property: "og:description", content: "24/7 emergency roofing, leak repairs and re-roofing across West Auckland and greater Auckland." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@RoofingAuckland" },
+      { name: "twitter:site", content: "@RoofingWestAuck" },
     ],
     links: [
       {
