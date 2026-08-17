@@ -248,15 +248,12 @@ function Index() {
             >
               Call now
             </a>
-                Call now
-              </a>
               <a
                 href="#request"
                 className="inline-flex items-center bg-secondary text-secondary-foreground py-3 pr-5 pl-4 rounded-lg text-sm font-semibold ring-1 ring-border transition-all hover:bg-secondary/80"
               >
                 Request Service
               </a>
-            </div>
 
             <div className="flex gap-8 border-t border-border pt-8">
               <div className="flex items-start gap-3">
