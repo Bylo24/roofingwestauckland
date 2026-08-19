@@ -1,12 +1,12 @@
-# roofing north shore
+# Roofing West Auckland
 
 MAKE A HIGHLY CONVERTING LANDING PLUMBING WEBSITE ONE PAGER
 
-24/7 emergency roofing in north shore
+24/7 emergency roofing in West Auckland
 
 64 9 8879059
 
-roofing north shore
+ROOFING WEST AUCKLAND
 
 Call
 
@@ -14,7 +14,7 @@ Request service
 
 Qualified, insured, local
 
-Need a roofer in north shore?
+Need a roofer in West Auckland?
 
 Call now for urgent help, or send a quick request and we will get back to you.
 
@@ -54,7 +54,7 @@ What our customers say
 
 Google
 
-roofing north shore
+Roofing West Auckland
 
 5.0
 
@@ -84,7 +84,7 @@ Mrs
 
 1 week ago
 
-Highly recommend the great communication, they were quick to find me a booking and arrived on time. It’s rare to see workers clean up their mess properly these days but roofing north shore impressed me! Give them a shot
+Highly recommend the great communication, they were quick to find me a booking and arrived on time. It’s rare to see workers clean up their mess properly these days but Roofing West Auckland impressed me! Give them a shot
 
 Price assessment
 
@@ -101,6 +101,8 @@ Service not listed
 Response from the owner
 
 Thanks for the review!
+
+View on Google
 
 Logan
 
@@ -200,7 +202,7 @@ reshee
 
 1 week ago
 
-I had a great experience with roofing north shore. From the very first call these guys were quick and efficient and communicated really well. Quality of the work was excellent too. Top notch service!
+I had a great experience with Roofing West Auckland. From the very first call these guys were quick and efficient and communicated really well. Quality of the work was excellent too. Top notch service!
 
 Response from the owner
 
@@ -294,5 +296,55 @@ Riverhead
 
 Waitakere
 
-roofing north shore
+ROOFING WEST AUCKLAND
 
+24/7 emergency plumbing.
+
+64 9 8879059
+
+review part of it code:
+
+useEffect(() => {
+
+  const scriptId = "sociablekit-google-reviews";
+
+  if (document.getElementById(scriptId)) {
+
+    return;
+
+  }
+
+  const script = document.createElement("script");
+
+  script.id = scriptId;
+
+  script.src = "https://widgets.sociablekit.com/google-reviews/widget.js";
+
+  script.defer = true;
+
+  document.body.appendChild(script);
+
+}, []);
+
+do it but for “Roofing Auckland"
+
+This project was built with [Lovable](https://lovable.dev).
+
+## Build with Lovable
+
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/755ecbed-ee8f-47f9-a93d-ac7924156fcb).
+
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```

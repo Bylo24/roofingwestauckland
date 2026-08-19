@@ -10,20 +10,20 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-         { title: "roofing north shore | 24/7 Emergency Roofing & Re-Roofing" },
+         { title: "Roofing West Auckland | 24/7 Emergency Roofing & Re-Roofing" },
       {
         name: "description",
            content:
-             "roofing north shore provides 24/7 emergency roofing, leak repairs, re-roofing, guttering and spouting across north shore and greater Auckland. Call 64 9 8879059.",
+             "Roofing West Auckland provides 24/7 emergency roofing, leak repairs, re-roofing, guttering and spouting across West Auckland and greater Auckland. Call 64 9 8879059.",
       },
       {
         property: "og:title",
-           content: "roofing north shore | 24/7 Emergency Roofing & Re-Roofing",
+           content: "Roofing West Auckland | 24/7 Emergency Roofing & Re-Roofing",
       },
       {
         property: "og:description",
-             content:
-             "24/7 emergency roofing, leak repairs, re-roofing and guttering across north shore. Qualified, insured, local.",
+           content:
+             "24/7 emergency roofing, leak repairs, re-roofing and guttering across West Auckland. Qualified, insured, local.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -207,7 +207,7 @@ function Index() {
       <nav className="sticky top-0 z-40 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
           <span className="font-sans font-semibold tracking-tight text-lg uppercase">
-            roofing <span className="text-primary">north shore</span>
+            Roofing <span className="text-primary">West Auckland</span>
           </span>
           <div className="hidden md:flex items-center gap-6">
             <span className="text-sm font-medium text-muted-foreground">
@@ -230,10 +230,10 @@ function Index() {
           <div className="space-y-8">
             <div className="space-y-4">
               <span className="inline-block px-3 py-1 bg-accent text-accent-foreground text-xs font-semibold rounded-full uppercase tracking-wider">
-                24/7 north shore Service
+                24/7 West Auckland Service
               </span>
               <h1 className="font-sans text-4xl md:text-6xl font-semibold leading-tight text-balance max-w-[20ch]">
-                Weatherproof your home with north shore’s roofing specialists
+                Weatherproof your home with West Auckland’s roofing specialists
               </h1>
               <p className="text-lg text-muted-foreground text-pretty max-w-[48ch]">
                 From urgent leak repairs to full long-run metal re-roofing. We
@@ -244,7 +244,7 @@ function Index() {
             <a
                 href={PHONE_HREF}
                 className="text-sm font-semibold text-primary hover:text-primary/80 transition-colors opacity-0 pointer-events-none"
-                aria-label="Call roofing north shore"
+                aria-label="Call Roofing West Auckland"
             >
               Call now
             </a>
@@ -389,7 +389,7 @@ function Index() {
               <a
                 href={PHONE_HREF}
                 className="font-semibold text-primary hover:underline opacity-0 pointer-events-none"
-                aria-label="Call roofing north shore"
+                aria-label="Call Roofing West Auckland"
               >
                 Call now
               </a>
@@ -431,7 +431,7 @@ function Index() {
               <div>
                 <h3 className="font-sans font-semibold mb-1">Local Auckland</h3>
                   <p className="text-sm text-muted-foreground">
-                    north shore based. We know north shore roofs and weather.
+                    West Auckland based. We know West Auckland roofs and weather.
                   </p>
               </div>
             </div>
@@ -519,7 +519,7 @@ function Index() {
                 </p>
                 <p className="text-sm flex items-center gap-2">
                   <Home className="size-4" />
-                    north shore & Auckland wide
+                  West Auckland & Auckland wide
                 </p>
               </div>
             </div>
@@ -535,7 +535,7 @@ function Index() {
             </div>
           </div>
           <div className="mt-24 pt-8 border-t border-background/10 text-[10px] uppercase tracking-widest text-center md:text-left">
-            &copy; {new Date().getFullYear()} roofing north shore. Licensed Building
+            &copy; {new Date().getFullYear()} Roofing West Auckland. Licensed Building
             Practitioner. Qualified & insured.
           </div>
         </div>
@@ -549,7 +549,7 @@ function Index() {
         <a
           href={PHONE_HREF}
           className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-5 py-2.5 rounded-lg text-sm font-semibold hover:bg-clay-light transition-colors opacity-0 pointer-events-none"
-          aria-label="Call roofing north shore"
+          aria-label="Call Roofing West Auckland"
         >
           <Phone className="size-4" />
           Call now
